@@ -1,0 +1,43 @@
+.button {
+  width: 100px;
+  height: 100px;
+  font-size: 24px;
+  margin: 5px;
+  background-color: lightgray;
+}
+#label {
+  font-size: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 50px;
+}
+.buttoncontainer #b1-3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+#b4-6 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+#b7-9 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+#b0 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.buttonextra {
+  display: flex;
+  flex-direction: column;
+}
